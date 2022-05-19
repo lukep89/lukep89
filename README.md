@@ -9,4 +9,4 @@ lukep89/lukep89 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 git config --global user.name "luke89"
-git config --global user.email "luke.pennefather@gmail.com"
+git config --global user.email "lukepennefather@gmail.com"
